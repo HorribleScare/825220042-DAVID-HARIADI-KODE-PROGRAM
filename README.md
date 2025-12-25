@@ -17,13 +17,12 @@ The project showcases how web application logic and UI components can be organiz
 ## 💻 Technologies Used
 
 - ASP.NET (Web Forms)  
-- C# (backend logic)  
+- C# (Backend Logic)  
 - Web UI templates and master layouts  
 
 This combination was used to build dynamic server-rendered pages and handle user interactions.
 
 ## 🚀 Features
-
 - Clean ASP.NET Web Form architecture  
 - Multiple questionnaire and survey pages  
 - Master layout page for consistency across views  
@@ -31,11 +30,10 @@ This combination was used to build dynamic server-rendered pages and handle user
 - Easily extensible for further development  
 
 ## 🔍 Project Overview
+The project was developed as part of my Undergraduate Thesis report requirements and contains practical examples of how web applications are structured using ASP.NET. Each page demonstrates a specific aspect of web programming, from UI layout to backend logic for handling data and user interaction. The questionnaires included are useful for capturing user input in structured form and can easily be adapted for other research scenarios.
 
-The project was developed as part of my undergraduate thesis report requirements and contains practical examples of how web applications are structured using ASP.NET. Each page demonstrates a specific aspect of web programming, from UI layout to backend logic for handling data and user interaction. The questionnaires included are useful for capturing user input in structured form and can easily be adapted for other research scenarios.
+## 📜 License
+You are free to explore, reuse, and extend this code for learning or academic purposes.
 
-## 📂 How to Use
-
-- Clone the repository  
-  ```bash
-  git clone https://github.com/HorribleScare/825220042-DAVID-HARIADI-KODE-PROGRAM.git
+## 📌 About This Repo
+This repository documents an academic project created by David Hariadi and serves as a practical demonstration of software development skills using ASP.NET and related technologies. It is part of a larger Undergraduate Thesis programming project.
