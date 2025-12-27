@@ -35,5 +35,8 @@ The project was developed as part of my Undergraduate Thesis report requirements
 ## 📜 License
 You are free to explore, reuse, and extend this code for learning or academic purposes.
 
-## 📌 About This Repo
+## 📌 About This Repository
 This repository documents an academic project created by David Hariadi and serves as a practical demonstration of software development skills using ASP.NET and related technologies. It is part of a larger Undergraduate Thesis programming project.
+
+## 🎞️ Preview
+[![Undergraduate Thesis Program Preview](https://img.youtube.com/vi/27eGnk9TXO4/0.jpg)](https://www.youtube.com/watch?v=27eGnk9TXO4)
